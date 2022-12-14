@@ -8,13 +8,12 @@ body {
   background: #fff;
   margin: 12px auto;
   border: 12px white solid;
-
 }
 
 .title {
   background: #e3f4ff;
   margin-top: 0px;
-  margin-bottom:12px;
+  margin-bottom: 12px;
   padding: 10px;
   font-size: 30px;
 }
@@ -30,13 +29,12 @@ body {
   padding: 8px 60px;
   margin: 0px;
   text-align: center;
-
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  display:block;
+  display: block;
   margin: auto;
   padding: 10px 20px;
 }
